@@ -1,0 +1,24 @@
+{
+  "name": "grpc-node-db-handler",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yue-best-practices/grpc-node-db-handler.git"
+  },
+  "author": "Yue.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yue-best-practices/grpc-node-db-handler/issues"
+  },
+  "homepage": "https://github.com/yue-best-practices/grpc-node-db-handler#readme",
+  "dependencies": {
+    "google-protobuf": "^3.6.0",
+    "grpc": "^1.12.4",
+    "grpc-db-service-pb": "0.0.2"
+  }
+}
