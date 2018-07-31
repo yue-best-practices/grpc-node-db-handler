@@ -1,6 +1,6 @@
 {
   "name": "grpc-node-db-handler",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,6 @@
   "dependencies": {
     "google-protobuf": "^3.6.0",
     "grpc": "^1.12.4",
-    "grpc-db-service-pb": "0.0.2"
+    "grpc-db-service-pb": "0.0.3"
   }
 }
